@@ -5,7 +5,8 @@ food.append("sushi") #add value to the list; we can
 print(food) 
 food.extend(["cheeseburger", "burito"]) #add values to the list
 print(food)
-
+food.remove("burito")
+print(food)
 
 #print(food)
 #print(drink)
