@@ -13,5 +13,3 @@ elif choice == "3":
     print(f"In {years} years there are {364*24*years} hours")
 else:
     print("Select a right choice")
-
-
